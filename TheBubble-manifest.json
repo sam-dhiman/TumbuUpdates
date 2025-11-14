@@ -1,12 +1,11 @@
 {
-  "version": "1.0.2",
-  "buildNumber": "0002",
-  "firmwareURL": "https://github.com/YOUR_USERNAME/tumbu-firmware/releases/download/v1.0.1/TM-TheBubble-v1.0.1-build0001.bin",
+  "version": "1.0.1",
+  "buildNumber": "0001",
+  "firmwareURL": "https://github.com/sam-dhiman/TumbuUpdates/releases/download/Tumbu-TheBubble/TM-TheBubble-v1.0.1-build0001.bin",
   "releaseDate": "2024-11-14",
   "changelog": [
-    "Fixed OTA update issues",
-    "Improved WiFi stability",
-    "Added crash logging"
+    "Initial GitHub OTA release",
+    "Improved WiFi stability"
   ],
   "minVersion": "1.0.0"
 }
